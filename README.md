@@ -1,4 +1,4 @@
-# This Application is a Command Line To-Do List
+# This Application is a Minimalist Command Line To-Do List
 Fancy task managers with slick user interfaces are slow and cumbersome. With the power of command line at disposal, I'd like to access all tasks without tedious pointing and clicking.
 
 This program is an object oriented task manager application that will allow user to enter tasks, save them to a file, and retrieve them... all without moving your hands from the keyboard.
