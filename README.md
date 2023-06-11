@@ -3,7 +3,9 @@ Fancy task managers with slick user interfaces are slow and cumbersome. With the
 
 This program is an object oriented task manager application that will allow user to enter tasks, save them to a file, and retrieve them... all without moving your hands from the keyboard.
 
-[![Watch the video](https://img.youtube.com/vi/Bf1JCaIo9FM/maxresdefault.jpg)](https://youtu.be/Bf1JCaIo9FM)
+## Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/Bf1JCaIo9FM/hqdefault.jpg)](https://youtu.be/Bf1JCaIo9FM)
 
 ## Usage
 The user can run the program completely from the command line
